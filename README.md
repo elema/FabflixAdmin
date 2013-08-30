@@ -2,7 +2,7 @@ FabflixAdmin is a Java desktop GUI application built using Java Swing on the Net
 
 The application utilizes JDBC to interface with a MySQL database.
 
-The goal of this project is to learn how to create a movie database, populate the database and learn how to build a program that connects to the database so that employees can manage movie data.
+The goal of this project is to learn how to create a movie database, populate the database and build a program that connects to the database so that employees can manage movie information.
 
 Fabflix employees can manage the movie database in the following ways:
 
